@@ -21,6 +21,8 @@ import {
         </ul>
         <p className={styles.copy_right}>
           <span>Costs</span> &copy; 2023
+          <br></br>
+          Desenvolvido por <span>Wilkson Flor</span>.
         </p>
       </footer>
     );
