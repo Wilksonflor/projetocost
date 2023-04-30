@@ -148,6 +148,33 @@
       "cost": 0,
       "services": [],
       "id": 15
+    },
+    {
+      "name": "Planejamento final do ano",
+      "budget": "2000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "Impressões de banners ",
+      "budget": "1200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 18
     }
   ],
   "categorys": [
