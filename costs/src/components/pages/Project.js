@@ -3,7 +3,7 @@ import styles from './Project.module.css'
 import {useParams} from 'react-router-dom'
 import { useEffect, useState } from 'react'
 function Project(){
-
+   
     const {id} = useParams()
 
     const [project, setProject] = useState([])
