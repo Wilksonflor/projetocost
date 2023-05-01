@@ -7,7 +7,7 @@ import Container from "../../layouts/Container";
 import Loading from "../../layouts/Loading";
 import ProjectCard from "../projects/ProjectCard";
 
-import styles from "./Project.module.css";
+import styles from "./Projects.module.css";
 
 function Projects() {
   const [projects, setProjects] = useState([]);

@@ -58,7 +58,7 @@
     margin-top: 1.2em;
     display: flex;
     align-items: center;
-
+    
 }
 
 
@@ -87,4 +87,13 @@
 .project_card_action button:hover{
     background-color: #222;
     color: #ffbb33;
+}
+
+
+@media only screen and (max-width: 990px){
+    .project_card{
+        margin-inline: auto;
+        margin-bottom: .8em;
+        width: 90%;
+    }
 }

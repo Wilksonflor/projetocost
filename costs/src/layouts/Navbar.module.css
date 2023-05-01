@@ -1,15 +1,17 @@
 .navbar{
     display: flex;
+    align-items: center;
     justify-content: space-between;
     background-color: #222;
-    padding: 1em;
-    
+    padding: 1em;    
 }
 
 .list{
+
     display: flex;
     list-style: none;
     align-items: center;
+    margin-right: 25px;
 }
 
 .item{
